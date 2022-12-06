@@ -9,7 +9,7 @@ Using with Python standalone
     from xhtml2pdf import pisa             # import python module
     
     # Define your data
-    source_html = "<html><body><p>To PDF or not to PDF</p></body></html>"
+    source_html = "<html><body><p>hello</p></body></html>"
     output_filename = "test.pdf"
 
     # Utility function
